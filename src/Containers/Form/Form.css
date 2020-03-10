@@ -1,0 +1,16 @@
+body {
+    background-color: #ecf0f1;
+    margin: 2em 0 2em;
+  }
+  
+  .demoForm {
+    width: 400px;
+    max-width: 80%;
+    margin: auto;
+  }
+  
+  .formErrors {
+    margin: 2em 0;
+    color: #d9534f;
+  }
+  
